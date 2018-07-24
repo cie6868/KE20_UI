@@ -1,0 +1,36 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.car-btn {
+    background-color: #000000;
+}
+
+.car-btn svg {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.car-btn path {
+    fill: #ffffff;
+}
+
+.car-btn span {
+    color: #ffffff;
+    font-size: 24px;
+    padding-bottom: 5%;
+}
+
+.car-btn-active {
+    background-color: #ffffff;
+}
+
+.car-btn-active span {
+    color: #000000;
+}
+
+.car-btn-active path {
+    fill: #000000;
+}
